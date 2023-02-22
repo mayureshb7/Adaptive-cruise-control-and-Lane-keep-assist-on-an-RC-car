@@ -1,4 +1,4 @@
-# PROJECT 2: Adaptive cruise control and Lane keep assist on an RC car
+# PROJECT 2:  Adaptive cruise control and Lane keep assist on an RC car
 ## Submitted by: Mayuresh Bhosale
 
 ### Problem Statement:
@@ -14,10 +14,10 @@ Please read `Mayuresh_Bhosale_Final_Report_Project.pdf` for more details.
 
 **Image showing RC car hardware Setup for ADAS**
 
-![](https://github.com/mayureshb7/Computer-Vision---ECE6310/blob/main/Lab6%20Motion%20Tracking%20by%20using%20Smartphone%20Accelerometer%20Sensor/Accelearion_Image.jpg)
+![](https://github.com/mayureshb7/Adaptive-cruise-control-and-Lane-keep-assist-on-an-RC-car/blob/main/RC_CAR.png)
 
 **Video of the ADAS test**
 
 [![ACC and LKA]          // Title
-(https://github.com/mayureshb7/Computer-Vision---ECE6310/blob/main/Lab6%20Motion%20Tracking%20by%20using%20Smartphone%20Accelerometer%20Sensor/Accelearion_Image.jpg)] // Thumbnail
+(https://github.com/mayureshb7/Adaptive-cruise-control-and-Lane-keep-assist-on-an-RC-car/blob/main/RC_CAR.png)] // Thumbnail
 (https://youtube.com/shorts/AurkAglt75M?feature=share "ACC and LKA")
