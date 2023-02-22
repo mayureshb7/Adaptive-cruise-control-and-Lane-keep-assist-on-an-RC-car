@@ -1,4 +1,4 @@
-# PROJECT 2: Motion Tracking
+# PROJECT 2: Adaptive cruise control and Lane keep assist on an RC car
 ## Submitted by: Mayuresh Bhosale
 
 ### Problem Statement:
