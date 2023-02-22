@@ -18,5 +18,5 @@ Please read `Mayuresh_Bhosale_Final_Report_Project.pdf` for more details.
 
 **Video of the ADAS test**
 
-[![ACC and LKA]          // Title
+
 (https://youtube.com/shorts/AurkAglt75M?feature=share "ACC and LKA")
