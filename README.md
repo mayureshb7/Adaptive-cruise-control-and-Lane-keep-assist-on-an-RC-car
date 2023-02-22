@@ -19,5 +19,4 @@ Please read `Mayuresh_Bhosale_Final_Report_Project.pdf` for more details.
 **Video of the ADAS test**
 
 [![ACC and LKA]          // Title
-(https://github.com/mayureshb7/Adaptive-cruise-control-and-Lane-keep-assist-on-an-RC-car/blob/main/RC_CAR.png)] // Thumbnail
 (https://youtube.com/shorts/AurkAglt75M?feature=share "ACC and LKA")
